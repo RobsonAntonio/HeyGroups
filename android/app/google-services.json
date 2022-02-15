@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278770172064",
+    "project_id": "heygroups-651c5",
+    "storage_bucket": "heygroups-651c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278770172064:android:84f93bcdf8d0491ab789c5",
+        "android_client_info": {
+          "package_name": "com.heygroups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278770172064-0m2ecjbrb0ihdbqdmh3365clbrtf6f2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQExbB01sBCkrLA7tjmj-867iyYd2Vdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278770172064-0m2ecjbrb0ihdbqdmh3365clbrtf6f2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
